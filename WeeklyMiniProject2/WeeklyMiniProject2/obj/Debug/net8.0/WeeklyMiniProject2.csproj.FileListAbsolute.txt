@@ -1,0 +1,14 @@
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\bin\Debug\net8.0\WeeklyMiniProject2.exe
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\bin\Debug\net8.0\WeeklyMiniProject2.deps.json
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\bin\Debug\net8.0\WeeklyMiniProject2.runtimeconfig.json
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\bin\Debug\net8.0\WeeklyMiniProject2.dll
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\bin\Debug\net8.0\WeeklyMiniProject2.pdb
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.AssemblyInfoInputs.cache
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.AssemblyInfo.cs
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.csproj.CoreCompileInputs.cache
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.dll
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\refint\WeeklyMiniProject2.dll
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.pdb
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\WeeklyMiniProject2.genruntimeconfig.cache
+C:\Users\minos\source\repos\WeeklyMiniProject2\WeeklyMiniProject2\obj\Debug\net8.0\ref\WeeklyMiniProject2.dll
